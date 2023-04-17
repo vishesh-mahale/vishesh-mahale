@@ -1,5 +1,7 @@
+![logo](https://github.com/vishesh-mahale/vishesh-mahale/blob/main/banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Vishesh Mahale</h1>
+
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <div align='center'>
