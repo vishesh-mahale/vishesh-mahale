@@ -38,8 +38,7 @@
 ## 🔗 Let's Connect:
   
 <p align="left">
-<a href="https://twitter.com/mahale_vishesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahale_vishesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/visheshmahale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/visheshmahale/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/visheshmahale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/visheshmahale/" height="30" width="40" /></a><a href="https://twitter.com/mahale_vishesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahale_vishesh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackexchange.com/users/8067080/vishesh-mahale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/8067080/vishesh-mahale" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mahalevishesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahalevishesh/" height="30" width="40" /></a>
 </p>
