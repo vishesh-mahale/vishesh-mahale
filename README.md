@@ -77,11 +77,6 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-mahale&" alt="vishesh-mahale" /></p>
-
-<br>
-
-
 ## 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishesh-mahale" alt="vishesh-mahale" /></a> </p>
 
