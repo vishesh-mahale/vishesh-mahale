@@ -75,7 +75,27 @@
    
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-mahale&" alt="vishesh-mahale" /></p>
 
+<br>
+
+
+## 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishesh-mahale" alt="vishesh-mahale" /></a> </p>
+
+
+<br>
+
+<!-- 
+## ⚡❤️ Popular Repository:
+<div align="center"><a href="https://github.com/chetannada/Namaste-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" />
+</a></div>
+-->
+
+<br>
+
+## 📊 Stats:
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=vishesh-mahale&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
