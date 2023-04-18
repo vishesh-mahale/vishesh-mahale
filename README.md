@@ -70,7 +70,7 @@
 ## ⚡❤️ Popular Repository:
 <div align="center"><a href="https://github.com/chetannada/Namaste-React">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" />
-</a></div>
+</a></div>  &nbsp;
 -->
 
 <br>
