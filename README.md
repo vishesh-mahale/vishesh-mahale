@@ -1,4 +1,4 @@
-![logo](https://github.com/vishesh-mahale/vishesh-mahale/blob/main/banner1.png?raw=true)
+![logo](https://github.com/vishesh-mahale/vishesh-mahale/blob/main/banner.png?raw=true)
 
 
 <h1 align='center'>
